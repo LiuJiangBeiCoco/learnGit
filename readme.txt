@@ -1,1 +1,2 @@
-now study git
+now study
+clone
